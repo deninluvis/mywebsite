@@ -136,6 +136,7 @@ p {
 }
 .portfolio a{
   background-color: antiquewhite;
+  text-decoration-color:#333
   text-decoration: none;
   border: 3px solid #333; /* Creates the border around the box */
   border-radius: 5px;
